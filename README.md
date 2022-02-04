@@ -2,7 +2,7 @@
 
 😉 I am passionate about artificial intelligence, programming, hanging out with my friends and playing soccer⚽. 
 
-👨🏻‍💻 Skills: Python / SQL / R / Matlab
+👨🏻‍💻 Skills: Python / SQL / Matlab
 
 
 
